@@ -16,17 +16,10 @@ This comprehensive course covers all aspects of iOS app development using Swift.
   and the publisher pattern.
 * Networking: How to make asynchronous API calls, store and retrieve data from the cloud, and use the JSON format for server communication.
 * Persistent Local Data Storage: How to use Core Data, Realm, Codable and User Defaults to store your app data locally.
-## Notes
-
-* This repository is for educational purposes and to track my progress in the course.
-* If "pod install" dosen't work for Flash Chat app or throws error after installing pods, then copy the "Pods" directory from the root directory of the repository into the 
-  Flash Chat app root directory(where the Podfile and Podfile.lock files are located).    
-* Some projects might require API keys or Firebase configuration. Please refer to the course instructions for setting up these services.
-* This is a work in progress, and I will continue to update it as I complete last few projects.* How to Implement In-App Purchases with Apple StoreKit
+* How to Implement In-App Purchases with Apple StoreKit
 * Machine Learning: How to make artificially intelligent apps and build your own machine learning models using iOS 13's new CoreML2 and CreateML frameworks.
 * Augmented Reality: How to create 3D objects in augmented reality and create incredible 3D animations and real-life interactions using Apple's latest ARKit2 framework.
 * SwiftUI: How to use Apple's brand new UI framework to create user interfaces programmatically that look good across all Apple products.
-* And much more!
 
 ## How to Run the Projects
 
@@ -40,3 +33,11 @@ This comprehensive course covers all aspects of iOS app development using Swift.
     pod install
     ```
 4.  Build and run the project on a simulator or a physical iOS device.
+
+## Notes
+
+* This repository is for educational purposes and to track my progress in the course.
+* If "pod install" dosen't work for Flash Chat app or throws error after installing pods, then copy the "Pods" directory from the root directory of the repository into the 
+  Flash Chat app root directory(where the Podfile and Podfile.lock files are located).    
+* Some projects might require API keys or Firebase configuration. Please refer to the course instructions for setting up these services.
+* This is a work in progress, and I will continue to update it as I complete last few projects.
