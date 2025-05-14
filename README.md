@@ -6,7 +6,7 @@ This repository contains my projects and exercises completed as part of "iOS & S
 
 This comprehensive course covers all aspects of iOS app development using Swift. It starts from the basics and progresses to advanced topics, enabling you to build a wide range of iOS applications.
 
-## Repository Structure
+## Course Structure
 The course is structured into modules, covering topics such as:
 
 * Concepts of Object Oriented Programming (OOP): The type system, variables, functions and methods, inheritance, structures, classes and protocols.
